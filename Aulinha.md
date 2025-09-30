@@ -1,4 +1,4 @@
-# Conceitos de banco de dados relacionais e JOINs (aplicado ao "festival_indie")
+# Conceitos de banco de dados relacionais (aplicado ao "festival_indie")
 
 ## Entidades e relações (modelo relacional)
   - ``Tabela`` = coleção de registros (linhas) que representam uma entidade do mundo real.
